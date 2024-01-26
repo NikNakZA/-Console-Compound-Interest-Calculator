@@ -1,0 +1,14 @@
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\CompoundInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\CompoundInterestCalculator.AssemblyInfoInputs.cache
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\CompoundInterestCalculator.AssemblyInfo.cs
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\CompoundInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\bin\Release\net8.0\CompoundInterestCalculator.exe
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\bin\Release\net8.0\CompoundInterestCalculator.deps.json
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\bin\Release\net8.0\CompoundInterestCalculator.runtimeconfig.json
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\bin\Release\net8.0\CompoundInterestCalculator.dll
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\bin\Release\net8.0\CompoundInterestCalculator.pdb
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\CompoundInterestCalculator.dll
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\refint\CompoundInterestCalculator.dll
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\CompoundInterestCalculator.pdb
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\CompoundInterestCalculator.genruntimeconfig.cache
+C:\Users\Nicolas Spies\CSharp\MyProjects\BeginnerLevel\CompoundInterestCalculator\CompoundInterestCalculator\obj\Release\net8.0\ref\CompoundInterestCalculator.dll
